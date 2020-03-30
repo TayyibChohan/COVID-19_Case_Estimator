@@ -9,10 +9,11 @@ The project is a script that can be used to approximate the number of COVID-19 c
 
 ## Sources 
 This project was inspired by the following Khan Academy Video and utilizes information from the following sources:
-
 https://www.youtube.com/watch?v=mCa0JXEwDEk
-https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html#a1
-https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus
-https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
 
+https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html#a1
+
+https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus
+
+https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
 
