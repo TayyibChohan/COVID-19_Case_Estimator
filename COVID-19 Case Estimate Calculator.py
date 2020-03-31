@@ -29,7 +29,7 @@ for i in deaths:
     death_day = date(int(i[0]), int(i[1]), int(i[2]))  # Get the date of each death
     people_infected_earlier = 100/float(i[3])
     dif = (current_date - death_day)
-    days = (float(dif.days)+20)  # Days since the intial infection
+    days = (float(dif.days)+ time_to_death)  # Days since the intial infection
     double_periods = days/double_rate
     removed_periods = (days - days_to_recover)/double_rate
     infected = people_infected_earlier*(2**double_periods)
