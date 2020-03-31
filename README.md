@@ -4,7 +4,7 @@ The project is a script that can be used to approximate the number of COVID-19 c
 ## Instructions
 1) Download or clone the script and the CVS file.
 2) Edit the CVS file to reflect the information for your area 
-3) Save the CVS file and run the script or executable 
+3) Save the CVS file and run the script or executable (make sure they are both in the same directory)
 
 
 ## Sources 
